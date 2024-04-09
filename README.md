@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I'm looking to collaborate on MCStacker.
-- 📫 You can reach me on: silas@moehler.net
+- 📫 You can reach me on: support@moehler.net
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like ant-eaters.
 - 💬 Languages I speak: German and English.
